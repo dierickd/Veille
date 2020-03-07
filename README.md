@@ -7,7 +7,7 @@
   - Le minimaliste  
   - l'animation  
   - ...  
-  [>> Les 6 tendances 2020](https://graphiste.com/blog/webdesign-ux-ui-tendances-2020)  
+  [>> Voir les 6 tendances 2020](https://graphiste.com/blog/webdesign-ux-ui-tendances-2020)  
   
   > ## PHP  
   
